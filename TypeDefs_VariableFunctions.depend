@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523511796 source:c:\users\sotomanu\desktop\2018\git\typedefs_variablefunctions\main.cpp
+	<iostream>
+	"Manny_Astar.h"
+
+1523512013 c:\users\sotomanu\desktop\2018\git\typedefs_variablefunctions\manny_astar.h
+
+1523511170 source:c:\users\sotomanu\desktop\2018\git\typedefs_variablefunctions\manny_astar.cpp
+	"Manny_Astar.h"
+
